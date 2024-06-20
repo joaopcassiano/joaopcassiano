@@ -20,7 +20,7 @@
 
 #
 <div style="display: flex">
-  <h3 align="left"> My stack </h3>
+  <h3 align="left"> My Stack </h3>
   <img align="center" alt="JP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JP-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
