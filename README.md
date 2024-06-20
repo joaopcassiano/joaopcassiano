@@ -4,10 +4,11 @@
   </a>
 </div>
 
-<img align="right" alt="gif-study" height="250px" src="./src/gif.gif">
 <p align="left">João Pedro Pereira Cassiano, atualmente estudo ciencia da computação, na Unifenas (Universidade Professor Edson Antônio Velano). 
 <br>Me interesso até o momento por ser um programador fullstack, querendo programar tanto na área de frontend e backend!
 <br>Gosto de aprender novas linguagens e sempre quero me atualizar no mercado, a minha soft skill mais presente é a coletividade, acho importante aprender sempre com quem tem mais conhecimento. </p>
+
+#
 
    <!-- CONTATO -->
 <div> 
@@ -16,6 +17,8 @@
   <a href = "mailto:joaocassiano.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9644F3&color:FFF" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9644F3&color:FFF)](https://www.linkedin.com/in/mari4souza/" target="_blank"></a>
 </div>
+
+#
 
   <!-- STACKS -->
 <div style="display: flex"><br>
@@ -34,7 +37,7 @@
 #
 
   <!-- STATS -->
-<div>
+<div width=100% align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopcassiano&show_icons=true&theme=midnight-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcassiano&layout=compact&theme=midnight-purple">
 </div>
