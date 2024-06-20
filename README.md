@@ -1,14 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9644F3&center=true&random=false&width=435&lines=Welcome+To+My+Profile!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9644F3&random=false&width=435&lines=Ol%C3%A1!+Eu+me+chamo+Jo%C3%A3o+Pedro+Pereira+Cassiano." alt="Typing SVG">
   </a>
 </div>
 
+<img align="right" alt="gif-study" height="250px" src="./src/gif.gif">
 <p align="left">João Pedro Pereira Cassiano, atualmente estudo ciencia da computação, na Unifenas (Universidade Professor Edson Antônio Velano). 
 <br>Me interesso até o momento por ser um programador fullstack, querendo programar tanto na área de frontend e backend!
 <br>Gosto de aprender novas linguagens e sempre quero me atualizar no mercado, a minha soft skill mais presente é a coletividade, acho importante aprender sempre com quem tem mais conhecimento. </p>
-
-#
 
    <!-- CONTATO -->
 <div> 
