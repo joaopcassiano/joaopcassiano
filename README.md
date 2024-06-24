@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="left">João Pedro Pereira Cassiano, atualmente estudo ciencia da computação, na Unifenas (Universidade Professor Edson Antônio Velano). 
+<p align="left"> Me chamo João Pedro Pereira Cassiano, atualmente estudo ciencia da computação, na Unifenas (Universidade Professor Edson Antônio Velano). 
 <br>Me interesso até o momento por ser um programador fullstack, querendo programar tanto na área de frontend e backend!
 <br>Gosto de aprender novas linguagens e sempre quero me atualizar no mercado, a minha soft skill mais presente é a coletividade, acho importante aprender sempre com quem tem mais conhecimento. </p>
 
