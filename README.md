@@ -13,7 +13,7 @@
    <!-- CONTATO -->
 <div> 
   <h3 align="left">Connect with me!</h3>
-    <a href = "mailto:joaocassiano.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9644F3&color:FFF" target="_blank"></a>
+    <a href = "mailto:joaocassiano.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9644F3&color:FFF" target="_blank"></a>
   <a href="https://instagram.com/_9joaopedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9644F3&color:FFF)](https://www.instagram.com/_9joaopedro/" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9644F3&color:FFF)](https://www.linkedin.com/in/mari4souza/" target="_blank"></a>
 </div>
