@@ -14,9 +14,11 @@
 
 [![Cuidado+ e Vortek Boost, duas landing pages de 2026](assets/projects.svg)](https://jpcassiano.pages.dev/#projetos)
 
-<div align="center"> 
-  [![Disponível para novos projetos](assets/status.svg)](mailto:dev.jpcassiano@gmail.com)
-<\div>
+<div align="center">
+  
+[![Disponível para novos projetos](assets/status.svg)](mailto:dev.jpcassiano@gmail.com)
+
+</div>
 
 ## Portfólio
 
