@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 52" width="168" height="52" role="img" aria-label="Portfólio">
+  <title>Portfólio</title>
+  <defs><style>
+    .f { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+  </style></defs>
+  <rect x="1" y="1" width="166" height="50" rx="25" fill="#0D0D10" stroke="#26262A"/>
+  <g transform="translate(30 26) scale(0.82)">
+  <circle cx="0" cy="0" r="9.5" fill="none" stroke="#F2F0EA" stroke-width="1.8"/>
+  <ellipse cx="0" cy="0" rx="4" ry="9.5" fill="none" stroke="#F2F0EA" stroke-width="1.5"/>
+  <path d="M-9.5 0h19" fill="none" stroke="#F2F0EA" stroke-width="1.5"/>
+  </g>
+  <text x="56" y="31" class="f" font-size="14" font-weight="600" fill="#F2F0EA">Portfólio</text>
+</svg>

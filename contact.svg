@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" role="img" aria-labelledby="t d">
+  <title id="t">Contato</title>
+  <desc id="d">Vamos tirar seu projeto do papel. Disponível para novos projetos. dev.jpcassiano@gmail.com</desc>
+  <defs>
+    <style>
+      .f {{ font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }}
+      .mono {{ font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }}
+      .dot {{ animation: pulse 2s ease-in-out infinite; }}
+      .bar {{ transform-origin: 0 0; animation: grow 1.2s ease-out .2s both; }}
+      @keyframes pulse {{ 0%,100% {{ opacity: 1 }} 50% {{ opacity: .3 }} }}
+      @keyframes grow {{ from {{ transform: scaleX(0) }} to {{ transform: scaleX(1) }} }}
+      @media (prefers-reduced-motion: reduce) {{ .dot, .bar {{ animation: none }} }}
+    </style>
+  </defs>
+  <rect width="900" height="170" fill="#09090A"/>
+  <rect x="0.5" y="0.5" width="899" height="169" rx="14" fill="none" stroke="#26262A"/>
+
+  <text x="48" y="52" class="mono" font-size="11" fill="#8A8A8E" letter-spacing="3">04 / CONTATO</text>
+  <circle cx="780" cy="48" r="4" fill="#3DDC84" class="dot"/>
+  <text x="792" y="52" class="mono" font-size="11" fill="#8A8A8E" letter-spacing="1">DISPONÍVEL</text>
+
+  <text x="48" y="98" class="f" font-size="34" font-weight="700" fill="#F2F0EA" letter-spacing="-0.5">Vamos tirar seu projeto do papel.</text>
+  <rect class="bar" x="48" y="118" width="804" height="1.5" fill="#26262A"/>
+  <text x="48" y="146" class="f" font-size="15" fill="#8A8A8E">Me chame por onde for mais fácil:</text>
+  <text x="290" y="146" class="mono" font-size="14" fill="#F2F0EA">dev.jpcassiano@gmail.com</text>
+</svg>
