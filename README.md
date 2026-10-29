@@ -26,12 +26,14 @@
 
 ## Contato
 
-<p>
-  <a href="https://jpcassiano.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" alt="Portfólio" height="40"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>&nbsp;
-  <a href="mailto:dev.jpcassiano@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"></a>&nbsp;
-  <a href="https://github.com/joaopcassiano"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a>&nbsp;
-  <a href="https://www.instagram.com/_9joaopedro"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
-</p>
+<div align="center">
 
-[jpcassiano.pages.dev](https://jpcassiano.pages.dev) · [dev.jpcassiano@gmail.com](mailto:dev.jpcassiano@gmail.com)
+[![Contato: vamos tirar seu projeto do papel. dev.jpcassiano@gmail.com](assets/contact.svg)](mailto:dev.jpcassiano@gmail.com)
+
+<a href="https://jpcassiano.pages.dev"><img src="assets/btn-portfolio.svg" alt="Portfólio" width="168" height="52"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="168" height="52"></a>
+<a href="mailto:dev.jpcassiano@gmail.com"><img src="assets/btn-gmail.svg" alt="E-mail" width="168" height="52"></a>
+<a href="https://github.com/joaopcassiano"><img src="assets/btn-github.svg" alt="GitHub" width="168" height="52"></a>
+<a href="https://www.instagram.com/_9joaopedro"><img src="assets/btn-instagram.svg" alt="Instagram" width="168" height="52"></a>
+
+</div>
