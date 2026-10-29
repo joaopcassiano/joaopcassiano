@@ -6,7 +6,7 @@
 
 <img src="assets/ticker.svg" alt="UI/UX Design, Front-end, Motion e interação" width="100%">
 
-<img src="assets/status.svg" alt="Disponível para novos projetos" height="40"> <img src="assets/status.svg" alt="Portfólio" height="40">
+<img src="assets/status.svg" alt="Disponível para novos projetos" height="40">
 
 </div>
 
@@ -38,15 +38,10 @@ Quero trabalhar como produtor criativo: entender o problema, pensar a solução 
 
 ## Contato
 
-Portfólio em [jpcassiano.pages.dev](https://jpcassiano.pages.dev) · Vamos conversar em [jpcassiano.pages.dev/#contato](https://jpcassiano.pages.dev/#contato)
+<a href="https://jpcassiano.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" height="44" alt="Portfólio"></a>&nbsp;
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:dev.jpcassiano@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Gmail"></a>&nbsp;
+<a href="https://github.com/joaopcassiano"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub"></a>&nbsp;
+<a href="https://www.instagram.com/_9joaopedro"><img src="https://skillicons.dev/icons?i=instagram" height="44" alt="Instagram"></a>
 
-<!--
-  Cobrinha das contribuições (opcional, é a única parte animada que depende de uma Action).
-  1. Ative o workflow em .github/workflows/snake.yml e rode uma vez (Actions > snake > Run workflow).
-  2. Quando existir a branch "output", troque este comentário por:
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopcassiano/joaopcassiano/output/github-snake-dark.svg">
-    <img alt="Contribuições" src="https://raw.githubusercontent.com/joaopcassiano/joaopcassiano/output/github-snake.svg" width="100%">
-  </picture>
--->
+[jpcassiano.pages.dev](https://jpcassiano.pages.dev) · [dev.jpcassiano@gmail.com](mailto:dev.jpcassiano@gmail.com)
