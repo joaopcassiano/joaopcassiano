@@ -10,7 +10,7 @@
 
 [![Desenho o site e escrevo o código. Sou JP Cassiano, design developer em Alfenas, Minas Gerais, e curso Ciência da Computação na UNIFENAS. Penso o problema, desenho a solução e programo o resultado: HTML, CSS e JavaScript nos projetos de front-end; C#, Java, Python e C++ vieram da faculdade e dos cursos. Quero ser produtor criativo e levar o projeto do briefing até o ar, em equipe e aprendendo com quem tem mais estrada.](assets/about.svg)](https://jpcassiano.pages.dev)
 
-## Projetos
+## Principais Projetos
 
 [![Cuidado+ e Vortek Boost, duas landing pages de 2026](assets/projects.svg)](https://jpcassiano.pages.dev/#projetos)
 
