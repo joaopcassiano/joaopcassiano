@@ -3,13 +3,13 @@
   <desc id="d">Vamos tirar seu projeto do papel. Disponível para novos projetos. dev.jpcassiano@gmail.com</desc>
   <defs>
     <style>
-      .f {{ font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }}
-      .mono {{ font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }}
-      .dot {{ animation: pulse 2s ease-in-out infinite; }}
-      .bar {{ transform-origin: 0 0; animation: grow 1.2s ease-out .2s both; }}
-      @keyframes pulse {{ 0%,100% {{ opacity: 1 }} 50% {{ opacity: .3 }} }}
-      @keyframes grow {{ from {{ transform: scaleX(0) }} to {{ transform: scaleX(1) }} }}
-      @media (prefers-reduced-motion: reduce) {{ .dot, .bar {{ animation: none }} }}
+      .f { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+      .dot { animation: pulse 2s ease-in-out infinite; }
+      .bar { transform-origin: 0 0; animation: grow 1.2s ease-out .2s both; }
+      @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .3 } }
+      @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+      @media (prefers-reduced-motion: reduce) { .dot, .bar { animation: none } }
     </style>
   </defs>
   <rect width="900" height="170" fill="#09090A"/>
