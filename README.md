@@ -4,8 +4,6 @@
 
 [![UI/UX Design, Front-end, Motion e interação](assets/ticker.svg)](https://jpcassiano.pages.dev)
 
-[![Disponível para novos projetos](assets/status.svg)](mailto:dev.jpcassiano@gmail.com)
-
 </div>
 
 ## Sobre
@@ -15,6 +13,8 @@
 ## Projetos
 
 [![Cuidado+ e Vortek Boost, duas landing pages de 2026](assets/projects.svg)](https://jpcassiano.pages.dev/#projetos)
+
+[![Disponível para novos projetos](assets/status.svg)](mailto:dev.jpcassiano@gmail.com)
 
 ## Portfólio
 
