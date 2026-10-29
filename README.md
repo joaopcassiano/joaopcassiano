@@ -4,6 +4,8 @@
 
 [![UI/UX Design, Front-end, Motion e interação](assets/ticker.svg)](https://jpcassiano.pages.dev)
 
+[![Disponível para novos projetos](assets/status.svg)](mailto:dev.jpcassiano@gmail.com)
+
 </div>
 
 ## Sobre
@@ -13,8 +15,6 @@
 ## Projetos
 
 [![Cuidado+ e Vortek Boost, duas landing pages de 2026](assets/projects.svg)](https://jpcassiano.pages.dev/#projetos)
-
-  [![Disponível para novos projetos](assets/status.svg)](mailto:dev.jpcassiano@gmail.com)
 
 ## Portfólio
 
@@ -26,12 +26,12 @@
 
 ## Contato
 
-<div align="center">
-  <a href="https://jpcassiano.pages.dev"><img src="assets/contact-portfolio.svg" alt="Portfólio: jpcassiano.pages.dev" width="420"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" width="420"></a>
-  <br>
-  <a href="mailto:dev.jpcassiano@gmail.com"><img src="assets/contact-gmail.svg" alt="Gmail: dev.jpcassiano@gmail.com" width="420"></a>
-  <a href="https://github.com/joaopcassiano"><img src="assets/contact-github.svg" alt="GitHub: joaopcassiano" width="420"></a>
-  <br>
-  <a href="https://www.instagram.com/_9joaopedro"><img src="assets/contact-instagram.svg" alt="Instagram: _9joaopedro" width="420"></a>
-</div>
+<p>
+  <a href="https://jpcassiano.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" alt="Portfólio" height="40"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>&nbsp;
+  <a href="mailto:dev.jpcassiano@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"></a>&nbsp;
+  <a href="https://github.com/joaopcassiano"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a>&nbsp;
+  <a href="https://www.instagram.com/_9joaopedro"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
+</p>
+
+[jpcassiano.pages.dev](https://jpcassiano.pages.dev) · [dev.jpcassiano@gmail.com](mailto:dev.jpcassiano@gmail.com)
