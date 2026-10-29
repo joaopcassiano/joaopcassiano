@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Projetos: Cuidado+ e Vortek Boost">
+  <style>
+    .f { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .card { opacity: 0; animation: in .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    .bar { transform-box: fill-box; transform-origin: left; animation: sweep 4.5s cubic-bezier(.65,0,.35,1) infinite; }
+    @keyframes in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes sweep { 0% { transform: scaleX(0); opacity: 1; } 70% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(1); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .card { animation: none; opacity: 1; } .bar { animation: none; } }
+  </style>
+  <g class="card f" style="animation-delay:0.00s">
+    <rect x="0.5" y="0.5" width="489" height="229" rx="16" fill="#0D0D0E" stroke="#ffffff" stroke-opacity="0.09"/>
+    <rect class="bar" x="26" y="0" width="438" height="2" fill="#FF5A2B" style="animation-delay:0.0s"/>
+    <text x="26" y="46" font-size="13" fill="#FF5A2B">01</text>
+    <text x="464" y="46" font-size="13" fill="#5f5d59" text-anchor="end">Landing page · 2026</text>
+    <text x="26" y="94" font-size="34" font-weight="700" letter-spacing="-1" fill="#ECEAE4">Cuidado+</text>
+    <text x="26" y="130" font-size="14.5" fill="#98958e">Para um app que ajuda famílias</text>
+    <text x="26" y="152" font-size="14.5" fill="#98958e">e cuidadores a acompanhar a rotina de idosos.</text>
+    <rect x="26" y="176" width="52" height="26" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="52" y="193" font-size="12" fill="#c9c6bf" text-anchor="middle">HTML</text>
+    <rect x="86.4" y="176" width="45" height="26" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="109" y="193" font-size="12" fill="#c9c6bf" text-anchor="middle">CSS</text>
+    <rect x="139.2" y="176" width="98" height="26" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="188" y="193" font-size="12" fill="#c9c6bf" text-anchor="middle">JavaScript</text>
+  </g>
+  <g class="card f" style="animation-delay:0.15s">
+    <rect x="510.5" y="0.5" width="489" height="229" rx="16" fill="#0D0D0E" stroke="#ffffff" stroke-opacity="0.09"/>
+    <rect class="bar" x="536" y="0" width="438" height="2" fill="#FF5A2B" style="animation-delay:0.8s"/>
+    <text x="536" y="46" font-size="13" fill="#FF5A2B">02</text>
+    <text x="974" y="46" font-size="13" fill="#5f5d59" text-anchor="end">Landing page · 2026</text>
+    <text x="536" y="94" font-size="34" font-weight="700" letter-spacing="-1" fill="#ECEAE4">Vortek Boost</text>
+    <text x="536" y="130" font-size="14.5" fill="#98958e">Para uma empresa que otimiza PCs e cria sites,</text>
+    <text x="536" y="152" font-size="14.5" fill="#98958e">software e identidade visual. Abertura em 3D.</text>
+    <rect x="536" y="176" width="60" height="26" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="566" y="193" font-size="12" fill="#c9c6bf" text-anchor="middle">React</text>
+    <rect x="604.0" y="176" width="98" height="26" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="653" y="193" font-size="12" fill="#c9c6bf" text-anchor="middle">TypeScript</text>
+    <rect x="710.0" y="176" width="83" height="26" rx="13" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="751" y="193" font-size="12" fill="#c9c6bf" text-anchor="middle">Three.js</text>
+  </g>
+</svg>

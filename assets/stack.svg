@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-label="Stack: front-end, back-end, dados e ferramentas">
+  <style>
+    .f { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .card { opacity: 0; animation: in .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    .item { opacity: 0; animation: in .6s ease-out forwards; }
+    .glow { animation: glow 5s ease-in-out infinite; }
+    @keyframes in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes glow { 0%,100% { opacity: .25; } 50% { opacity: .7; } }
+    @media (prefers-reduced-motion: reduce) { .card, .item { animation: none; opacity: 1; } .glow { animation: none; } }
+  </style>
+  <defs>
+    <radialGradient id="g" cx="0.15" cy="1" r="0.9">
+      <stop offset="0" stop-color="#FF5A2B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF5A2B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g class="card f" style="animation-delay:0.00s">
+    <rect x="0.5" y="0.5" width="319" height="359" rx="16" fill="#0D0D0E" stroke="#ffffff" stroke-opacity="0.09"/>
+    <rect class="glow" x="1" y="1" width="318" height="358" rx="15" fill="url(#g)" style="animation-delay:0.0s"/>
+    <text x="26" y="46" font-size="20" font-weight="600" fill="#ECEAE4" letter-spacing="-0.3">Front-end</text>
+    <text x="294" y="46" font-size="13" fill="#5f5d59" text-anchor="end">07</text>
+    <line x1="26" x2="294" y1="66" y2="66" stroke="#ffffff" stroke-opacity="0.09"/>
+    <g class="item" style="animation-delay:0.40s"><rect x="26" y="99" width="7" height="7" fill="#FF5A2B"/><text x="46" y="106" font-size="15" fill="#c9c6bf">HTML</text></g>
+    <g class="item" style="animation-delay:0.49s"><rect x="26" y="133" width="7" height="7" fill="#FF5A2B"/><text x="46" y="140" font-size="15" fill="#c9c6bf">CSS</text></g>
+    <g class="item" style="animation-delay:0.58s"><rect x="26" y="167" width="7" height="7" fill="#FF5A2B"/><text x="46" y="174" font-size="15" fill="#c9c6bf">JavaScript</text></g>
+    <g class="item" style="animation-delay:0.67s"><rect x="26" y="201" width="7" height="7" fill="#FF5A2B"/><text x="46" y="208" font-size="15" fill="#c9c6bf">TypeScript</text></g>
+    <g class="item" style="animation-delay:0.76s"><rect x="26" y="235" width="7" height="7" fill="#FF5A2B"/><text x="46" y="242" font-size="15" fill="#c9c6bf">React</text></g>
+    <g class="item" style="animation-delay:0.85s"><rect x="26" y="269" width="7" height="7" fill="#FF5A2B"/><text x="46" y="276" font-size="15" fill="#c9c6bf">Tailwind CSS</text></g>
+    <g class="item" style="animation-delay:0.94s"><rect x="26" y="303" width="7" height="7" fill="#FF5A2B"/><text x="46" y="310" font-size="15" fill="#c9c6bf">GSAP</text></g>
+  </g>
+  <g class="card f" style="animation-delay:0.15s">
+    <rect x="340.5" y="0.5" width="319" height="359" rx="16" fill="#0D0D0E" stroke="#ffffff" stroke-opacity="0.09"/>
+    <rect class="glow" x="341" y="1" width="318" height="358" rx="15" fill="url(#g)" style="animation-delay:1.2s"/>
+    <text x="366" y="46" font-size="20" font-weight="600" fill="#ECEAE4" letter-spacing="-0.3">Back-end</text>
+    <text x="634" y="46" font-size="13" fill="#5f5d59" text-anchor="end">06</text>
+    <line x1="366" x2="634" y1="66" y2="66" stroke="#ffffff" stroke-opacity="0.09"/>
+    <g class="item" style="animation-delay:0.55s"><rect x="366" y="99" width="7" height="7" fill="#FF5A2B"/><text x="386" y="106" font-size="15" fill="#c9c6bf">C#</text></g>
+    <g class="item" style="animation-delay:0.64s"><rect x="366" y="133" width="7" height="7" fill="#FF5A2B"/><text x="386" y="140" font-size="15" fill="#c9c6bf">.NET</text></g>
+    <g class="item" style="animation-delay:0.73s"><rect x="366" y="167" width="7" height="7" fill="#FF5A2B"/><text x="386" y="174" font-size="15" fill="#c9c6bf">Java</text></g>
+    <g class="item" style="animation-delay:0.82s"><rect x="366" y="201" width="7" height="7" fill="#FF5A2B"/><text x="386" y="208" font-size="15" fill="#c9c6bf">Python</text></g>
+    <g class="item" style="animation-delay:0.91s"><rect x="366" y="235" width="7" height="7" fill="#FF5A2B"/><text x="386" y="242" font-size="15" fill="#c9c6bf">C</text></g>
+    <g class="item" style="animation-delay:1.00s"><rect x="366" y="269" width="7" height="7" fill="#FF5A2B"/><text x="386" y="276" font-size="15" fill="#c9c6bf">C++</text></g>
+  </g>
+  <g class="card f" style="animation-delay:0.30s">
+    <rect x="680.5" y="0.5" width="319" height="359" rx="16" fill="#0D0D0E" stroke="#ffffff" stroke-opacity="0.09"/>
+    <rect class="glow" x="681" y="1" width="318" height="358" rx="15" fill="url(#g)" style="animation-delay:2.4s"/>
+    <text x="706" y="46" font-size="20" font-weight="600" fill="#ECEAE4" letter-spacing="-0.3">Dados e ferramentas</text>
+    <text x="974" y="46" font-size="13" fill="#5f5d59" text-anchor="end">04</text>
+    <line x1="706" x2="974" y1="66" y2="66" stroke="#ffffff" stroke-opacity="0.09"/>
+    <g class="item" style="animation-delay:0.70s"><rect x="706" y="99" width="7" height="7" fill="#FF5A2B"/><text x="726" y="106" font-size="15" fill="#c9c6bf">MySQL</text></g>
+    <g class="item" style="animation-delay:0.79s"><rect x="706" y="133" width="7" height="7" fill="#FF5A2B"/><text x="726" y="140" font-size="15" fill="#c9c6bf">SQL Server</text></g>
+    <g class="item" style="animation-delay:0.88s"><rect x="706" y="167" width="7" height="7" fill="#FF5A2B"/><text x="726" y="174" font-size="15" fill="#c9c6bf">Git</text></g>
+    <g class="item" style="animation-delay:0.97s"><rect x="706" y="201" width="7" height="7" fill="#FF5A2B"/><text x="726" y="208" font-size="15" fill="#c9c6bf">Vite</text></g>
+  </g>
+</svg>

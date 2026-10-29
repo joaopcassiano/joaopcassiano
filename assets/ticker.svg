@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 52" width="1000" height="52" role="img" aria-label="UI/UX Design, Front-end, Motion e interação">
+  <style>
+    .f { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; letter-spacing: 0.3px; }
+    .run { animation: run 26s linear infinite; }
+    @keyframes run { from { transform: translateX(0); } to { transform: translateX(-1020px); } }
+    @media (prefers-reduced-motion: reduce) { .run { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#09090A" stop-opacity="1"/>
+      <stop offset="0.07" stop-color="#09090A" stop-opacity="0"/>
+      <stop offset="0.93" stop-color="#09090A" stop-opacity="0"/>
+      <stop offset="1" stop-color="#09090A" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1000" height="52" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="52" fill="#09090A"/>
+    <g class="run f">
+      <g id="set">
+        <rect x="20" y="22" width="8" height="8" fill="#FF5A2B"/><text x="40" y="31" fill="#ECEAE4">UI/UX Design</text>
+        <rect x="190" y="22" width="8" height="8" fill="#FF5A2B"/><text x="210" y="31" fill="#ECEAE4">Front-end</text>
+        <rect x="340" y="22" width="8" height="8" fill="#FF5A2B"/><text x="360" y="31" fill="#ECEAE4">Motion e interação</text>
+      </g>
+      <use href="#set" x="510"/>
+      <use href="#set" x="1020"/>
+      <use href="#set" x="1530"/>
+    </g>
+    <rect width="1000" height="52" fill="url(#fade)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="51" rx="11.5" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+</svg>

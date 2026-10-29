@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="JP Cassiano, Design Developer. Design que se move e permanece.">
+  <style>
+    .f { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .title { font-weight: 700; font-size: 86px; letter-spacing: -3px; }
+    .small { font-size: 13px; letter-spacing: 0.4px; }
+    .dot { animation: pulse 2.4s ease-in-out infinite; transform-origin: 66px 62px; }
+    .word { opacity: 0; }
+    .w1 { animation: w1 9s cubic-bezier(.65,0,.35,1) infinite; }
+    .w2 { animation: w2 9s cubic-bezier(.65,0,.35,1) infinite; }
+    .sq1 { animation: sq1 9s cubic-bezier(.65,0,.35,1) infinite; }
+    .sq2 { animation: sq2 9s cubic-bezier(.65,0,.35,1) infinite; }
+    .line { stroke-dasharray: 880; stroke-dashoffset: 880; animation: draw 2s 0.3s cubic-bezier(.65,0,.35,1) forwards; }
+    .rise { opacity: 0; animation: rise 1s 0.2s ease-out forwards; }
+    .rise2 { opacity: 0; animation: rise 1s 0.6s ease-out forwards; }
+    .ghost { animation: drift 14s ease-in-out infinite alternate; }
+    @keyframes pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.8); opacity: .35; } }
+    @keyframes w1 { 0% { opacity: 0; transform: translateY(26px); } 6% { opacity: 1; transform: translateY(0); } 44% { opacity: 1; transform: translateY(0); } 50% { opacity: 0; transform: translateY(-26px); } 100% { opacity: 0; transform: translateY(-26px); } }
+    @keyframes w2 { 0%,50% { opacity: 0; transform: translateY(26px); } 56% { opacity: 1; transform: translateY(0); } 94% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; transform: translateY(-26px); } }
+    @keyframes sq1 { 0% { opacity: 0; } 6% { opacity: 1; } 44% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 0; } }
+    @keyframes sq2 { 0%,50% { opacity: 0; } 56% { opacity: 1; } 94% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes drift { from { transform: translateX(-24px); } to { transform: translateX(24px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .w1, .sq1, .rise, .rise2 { opacity: 1; } .line { stroke-dashoffset: 0; } }
+  </style>
+  <rect width="1000" height="380" rx="18" fill="#09090A"/>
+  <rect x="0.5" y="0.5" width="999" height="379" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g class="ghost">
+    <text class="f" x="500" y="296" text-anchor="middle" font-size="190" font-weight="800" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1.5" letter-spacing="-6">CASSIANO</text>
+  </g>
+
+  <g class="f small">
+    <circle cx="66" cy="62" r="4" fill="#FF5A2B" class="dot"/>
+    <text x="82" y="67" fill="#98958E">Design Developer</text>
+    <text x="934" y="67" fill="#5f5d59" text-anchor="end">©2026</text>
+  </g>
+
+  <g class="f">
+    <text class="title rise" x="60" y="178" fill="#ECEAE4">Design que</text>
+    <g class="rise2">
+      <rect class="sq1" x="64" y="232" width="14" height="14" fill="#FF5A2B"/>
+      <rect class="sq2" x="64" y="232" width="14" height="14" fill="#FF5A2B"/>
+      <text class="title word w1" x="96" y="262" fill="#98958E">se move.</text>
+      <text class="title word w2" x="96" y="262" fill="#98958E">permanece.</text>
+    </g>
+  </g>
+
+  <line class="line" x1="60" y1="318" x2="940" y2="318" stroke="#ffffff" stroke-opacity="0.14"/>
+  <g class="f small">
+    <text x="60" y="348" fill="#ECEAE4">Do layout ao código.</text>
+    <text x="940" y="348" fill="#5f5d59" text-anchor="end">UNIFENAS · Alfenas, MG</text>
+  </g>
+</svg>
