@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-labelledby="t d">
+  <title id="t">Sobre JP Cassiano</title>
+  <desc id="d">Desenho o site e escrevo o código. Design developer em Alfenas, Minas Gerais, cursando Ciência da Computação na UNIFENAS. Penso o problema, desenho a solução e programo o resultado. Quero trabalhar como produtor criativo, acompanhando o projeto até o ar.</desc>
+  <defs>
+    <style>
+      .f { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+      .row { opacity: 0; animation: rise .8s ease-out forwards; }
+      .r1 { animation-delay: .1s } .r2 { animation-delay: .35s } .r3 { animation-delay: .6s } .r4 { animation-delay: .85s }
+      .bar { transform-origin: 0 0; animation: grow 1.2s ease-out .2s both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: translateY(0) } }
+      @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+      @media (prefers-reduced-motion: reduce) { .row { animation: none; opacity: 1 } .bar { animation: none } }
+    </style>
+  </defs>
+
+  <rect width="900" height="400" fill="#09090A"/>
+  <rect x="0.5" y="0.5" width="899" height="399" rx="14" fill="none" stroke="#26262A"/>
+
+  <!-- título -->
+  <g class="row r1">
+    <text x="48" y="62" class="mono" font-size="11" fill="#8A8A8E" letter-spacing="3">01 / SOBRE</text>
+    <text x="48" y="108" class="f" font-size="34" font-weight="700" fill="#F2F0EA" letter-spacing="-0.5">Desenho o site e escrevo o código.</text>
+    <text x="48" y="140" class="f" font-size="16" fill="#8A8A8E">O layout que você aprova é o mesmo que vai para o ar.</text>
+  </g>
+
+  <rect class="bar" x="48" y="166" width="804" height="1.5" fill="#26262A"/>
+
+  <!-- QUEM -->
+  <g class="row r2">
+    <text x="48" y="206" class="mono" font-size="11" fill="#8A8A8E" letter-spacing="3">QUEM</text>
+    <text x="220" y="206" class="f" font-size="15" fill="#F2F0EA">JP Cassiano, design developer em Alfenas, Minas Gerais.</text>
+    <text x="220" y="230" class="f" font-size="15" fill="#8A8A8E">Cursando Ciência da Computação na UNIFENAS.</text>
+  </g>
+
+  <!-- COMO -->
+  <g class="row r3">
+    <text x="48" y="276" class="mono" font-size="11" fill="#8A8A8E" letter-spacing="3">COMO</text>
+    <text x="220" y="276" class="f" font-size="15" fill="#F2F0EA">Penso o problema, desenho a solução e programo o resultado.</text>
+    <text x="220" y="300" class="f" font-size="15" fill="#8A8A8E">HTML, CSS e JavaScript nos projetos de front-end; C#, Java, Python</text>
+    <text x="220" y="322" class="f" font-size="15" fill="#8A8A8E">e C++ vieram da faculdade e dos cursos.</text>
+  </g>
+
+  <!-- OBJETIVO -->
+  <g class="row r4">
+    <text x="48" y="368" class="mono" font-size="11" fill="#8A8A8E" letter-spacing="3">OBJETIVO</text>
+    <text x="220" y="368" class="f" font-size="15" fill="#F2F0EA">Ser produtor criativo e levar o projeto do briefing até o ar,</text>
+    <text x="220" y="390" class="f" font-size="15" fill="#8A8A8E">em equipe e aprendendo com quem tem mais estrada.</text>
+  </g>
+</svg>

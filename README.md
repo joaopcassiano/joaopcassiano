@@ -1,47 +1,37 @@
 <div align="center">
 
-<a href="https://jpcassiano.pages.dev">
-  <img src="assets/hero.svg" alt="JP Cassiano, Design Developer. Design que se move e permanece." width="100%">
-</a>
+[![JP Cassiano, Design Developer. Design que se move e permanece.](assets/hero.svg)](https://jpcassiano.pages.dev)
 
-<img src="assets/ticker.svg" alt="UI/UX Design, Front-end, Motion e interação" width="100%">
+[![UI/UX Design, Front-end, Motion e interação](assets/ticker.svg)](https://jpcassiano.pages.dev)
 
-<img src="assets/status.svg" alt="Disponível para novos projetos" height="40">
+[![Disponível para novos projetos](assets/status.svg)](mailto:dev.jpcassiano@gmail.com)
 
 </div>
 
-<br>
-
 ## Sobre
 
-Sou JP Cassiano, design developer. Desenho sites e produtos digitais e também escrevo o código, então o layout que você aprova é o mesmo que vai para o ar.
-
-Moro em Alfenas, Minas Gerais, e estudo Ciência da Computação na UNIFENAS. Por aqui tem um pouco de tudo: C#, Java, Python e C++ vieram da faculdade e dos cursos; HTML, CSS e JavaScript são o que uso nos projetos de front-end.
-
-Quero trabalhar como produtor criativo: entender o problema, pensar a solução e o layout, e acompanhar o projeto até o ar. Aprendo muito com quem tem mais experiência, então gosto de trabalhar em equipe.
-
-<br>
+[![Desenho o site e escrevo o código. Sou JP Cassiano, design developer em Alfenas, Minas Gerais, e curso Ciência da Computação na UNIFENAS. Penso o problema, desenho a solução e programo o resultado: HTML, CSS e JavaScript nos projetos de front-end; C#, Java, Python e C++ vieram da faculdade e dos cursos. Quero ser produtor criativo e levar o projeto do briefing até o ar, em equipe e aprendendo com quem tem mais estrada.](assets/about.svg)](https://jpcassiano.pages.dev)
 
 ## Projetos
 
-<a href="https://jpcassiano.pages.dev/#projetos">
-  <img src="assets/projects.svg" alt="Cuidado+ e Vortek Boost, duas landing pages de 2026" width="100%">
-</a>
+[![Cuidado+ e Vortek Boost, duas landing pages de 2026](assets/projects.svg)](https://jpcassiano.pages.dev/#projetos)
 
-<br>
+## Portfólio
+
+[![Portfólio de JP Cassiano em jpcassiano.pages.dev: Design que se move e permanece](assets/portfolio.svg)](https://jpcassiano.pages.dev)
 
 ## Stack
 
-<img src="assets/stack.svg" alt="Front-end: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, GSAP. Back-end: C#, .NET, Java, Python, C, C++. Dados e ferramentas: MySQL, SQL Server, Git, Vite." width="100%">
-
-<br>
+[![Front-end: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, GSAP. Back-end: C#, .NET, Java, Python, C, C++. Dados e ferramentas: MySQL, SQL Server, Git, Vite.](assets/stack.svg)](https://jpcassiano.pages.dev)
 
 ## Contato
 
-<a href="https://jpcassiano.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" height="44" alt="Portfólio"></a>&nbsp;
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:dev.jpcassiano@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Gmail"></a>&nbsp;
-<a href="https://github.com/joaopcassiano"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub"></a>&nbsp;
-<a href="https://www.instagram.com/_9joaopedro"><img src="https://skillicons.dev/icons?i=instagram" height="44" alt="Instagram"></a>
+<p>
+  <a href="https://jpcassiano.pages.dev"><img src="https://skillicons.dev/icons?i=chrome" alt="Portfólio" height="40"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-cassiano/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>&nbsp;
+  <a href="mailto:dev.jpcassiano@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"></a>&nbsp;
+  <a href="https://github.com/joaopcassiano"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"></a>&nbsp;
+  <a href="https://www.instagram.com/_9joaopedro"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
+</p>
 
 [jpcassiano.pages.dev](https://jpcassiano.pages.dev) · [dev.jpcassiano@gmail.com](mailto:dev.jpcassiano@gmail.com)

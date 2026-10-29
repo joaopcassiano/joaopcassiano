@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-labelledby="t d">
+  <title id="t">Portfólio de JP Cassiano</title>
+  <desc id="d">Janela de navegador mostrando jpcassiano.pages.dev com o título Design que se move e permanece.</desc>
+  <defs>
+    <style>
+      :root { --bg:#09090A; --card:#111113; --line:#26262A; --text:#F2F0EA; --muted:#8A8A8E; --ok:#3DDC84; }
+      .f { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      .scan { animation: scan 4.5s ease-in-out infinite; }
+      .tile { animation: float 5s ease-in-out infinite; }
+      .tile2 { animation: float 5s ease-in-out -1.6s infinite; }
+      .tile3 { animation: float 5s ease-in-out -3.2s infinite; }
+      .dot { animation: pulse 2s ease-in-out infinite; }
+      @keyframes blink { 0%,50% { opacity:1 } 50.01%,100% { opacity:0 } }
+      @keyframes scan { 0% { transform: translateX(0); opacity:0 } 15% { opacity:1 } 85% { opacity:1 } 100% { transform: translateX(300px); opacity:0 } }
+      @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-6px) } }
+      @keyframes pulse { 0%,100% { opacity:1 } 50% { opacity:.35 } }
+      @media (prefers-reduced-motion: reduce) { .cursor,.scan,.tile,.tile2,.tile3,.dot { animation:none } }
+    </style>
+    <linearGradient id="sweep" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#F2F0EA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F2F0EA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F2F0EA" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="win"><rect x="30" y="24" width="840" height="332" rx="14"/></clipPath>
+  </defs>
+
+  <rect width="900" height="380" fill="#09090A"/>
+
+  <!-- janela -->
+  <rect x="30" y="24" width="840" height="332" rx="14" fill="#111113" stroke="#26262A"/>
+  <g clip-path="url(#win)">
+    <rect x="30" y="24" width="840" height="44" fill="#0D0D0F"/>
+    <line x1="30" y1="68" x2="870" y2="68" stroke="#26262A"/>
+
+    <!-- barra de endereço -->
+    <circle cx="56" cy="46" r="5.5" fill="#26262A"/>
+    <circle cx="76" cy="46" r="5.5" fill="#26262A"/>
+    <circle cx="96" cy="46" r="5.5" fill="#26262A"/>
+    <rect x="270" y="34" width="360" height="24" rx="12" fill="#09090A" stroke="#26262A"/>
+    <circle cx="290" cy="46" r="3" fill="#3DDC84" class="dot"/>
+    <text x="304" y="50.5" class="mono" font-size="12" fill="#8A8A8E">jpcassiano.pages.dev</text>
+
+    <!-- nav do site -->
+    <text x="64" y="104" class="f" font-size="13" font-weight="700" fill="#F2F0EA" letter-spacing="1">JP.</text>
+    <text x="640" y="104" class="f" font-size="12" fill="#8A8A8E">Projetos</text>
+    <text x="708" y="104" class="f" font-size="12" fill="#8A8A8E">Sobre</text>
+    <text x="760" y="104" class="f" font-size="12" fill="#8A8A8E">Contato</text>
+
+    <!-- hero do site -->
+    <text x="64" y="160" class="f" font-size="11" fill="#8A8A8E" letter-spacing="3">DESIGN DEVELOPER</text>
+    <text x="64" y="212" class="f" font-size="44" font-weight="700" fill="#F2F0EA" letter-spacing="-1">Design que se move</text>
+    <text x="64" y="262" class="f" font-size="44" font-weight="700" fill="#F2F0EA" letter-spacing="-1">e permanece</text>
+    <rect class="cursor" x="326" y="232" width="4" height="36" fill="#F2F0EA"/>
+
+    <!-- linha com brilho -->
+    <rect x="64" y="288" width="300" height="1.5" fill="#26262A"/>
+    <rect class="scan" x="64" y="287.5" width="90" height="2.5" fill="url(#sweep)"/>
+
+    <!-- botão -->
+    <rect x="64" y="304" width="170" height="30" rx="15" fill="#F2F0EA"/>
+    <text x="149" y="323.5" class="f" font-size="12" font-weight="700" fill="#09090A" text-anchor="middle">Visitar portfólio →</text>
+
+    <!-- cartões de projeto -->
+    <g class="tile">
+      <rect x="560" y="140" width="270" height="92" rx="10" fill="#0D0D0F" stroke="#26262A"/>
+      <rect x="576" y="156" width="64" height="6" rx="3" fill="#8A8A8E" opacity=".5"/>
+      <text x="576" y="196" class="f" font-size="15" font-weight="700" fill="#F2F0EA">Cuidado+</text>
+      <text x="576" y="215" class="f" font-size="11" fill="#8A8A8E">Landing page · 2026</text>
+    </g>
+    <g class="tile2">
+      <rect x="560" y="246" width="128" height="88" rx="10" fill="#0D0D0F" stroke="#26262A"/>
+      <text x="574" y="292" class="f" font-size="14" font-weight="700" fill="#F2F0EA">Vortek</text>
+      <text x="574" y="310" class="f" font-size="11" fill="#8A8A8E">Boost · 2026</text>
+    </g>
+    <g class="tile3">
+      <rect x="702" y="246" width="128" height="88" rx="10" fill="none" stroke="#26262A" stroke-dasharray="4 5"/>
+      <text x="766" y="296" class="f" font-size="22" fill="#8A8A8E" text-anchor="middle">+</text>
+      <text x="766" y="314" class="f" font-size="11" fill="#8A8A8E" text-anchor="middle">em breve</text>
+    </g>
+  </g>
+</svg>
