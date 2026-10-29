@@ -6,7 +6,7 @@
 
 <img src="assets/ticker.svg" alt="UI/UX Design, Front-end, Motion e interação" width="100%">
 
-<img src="assets/status.svg" alt="Disponível para novos projetos" height="40">
+<img src="assets/status.svg" alt="Disponível para novos projetos" height="40"> <img src="assets/status.svg" alt="Portfólio" height="40">
 
 </div>
 
